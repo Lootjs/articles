@@ -28,44 +28,67 @@ At least, the ones that matter.
 ... И это хорошо.
 
 Хорошо, потому что это помогает тебе делать то, что нужно делать. Стать лучшим программистом в выбранном языке.
+
 Вместо того, чтобы изучать новый язык, о котором ты читал в статье, которая клянется, что тебе нужно выучить его в 2020 году, или ты будешь в помойке, стань лучшим программистом в выбранном тобой языке.
+
 Вместо изучения новых языков, коллекционирования значков или ачивок Steam, почему бы не стать лучшим в языке программирования?
+
 Если тебе нужна операция, ты выберешь хирурга с 10 летним стажем или доктора, который "Да, я немного занимался хирургией, а еще и дерматологией, общей практикой, педиатрией. Так что я много знаю"?
+
 Конечно, ты выберешь хирурга, с 10 летним стажем.
+
 Почему? Потому что он специалист. Он потратил время на изучение основ, потом стал опытным спецом и только потом экспертом. В то же время другой доктор мастер во всем: но у него не глубокий запас знаний.
+
 Итак, мой вопрос таков: Ты как работодатель, выберешь программиста с 10 летним стажем в C# для решения твоих бэкенд задач, или выберешь человека, который использует новый язык или фреймворк каждые 6 месяцев?
 
 Конечно, ты выберешь специалиста, который не меняет языки каждый месяц.
 
 ### Несмотря на это, продолжай учится
 То есть, ты не должен учить новые технологии?
+
 Нет, наоборот. Рост очень важен для программиста. Ты не должен быть экспертом Delphi в 2019 (наверное, может быть...).
+
 Ты должен хотеть [изучать](https://letslearnabout.net/blog/learning-how-to-learn/) новые технологии.
+
 И в этом весь секрет: НОВЫЕ технологии.
+
 Изучение новых фреймворков, языков и инструментов принесет что-то новое в твой стэк.
+
 Ты эксперт в React? Ты можешь изучить Vue или Angular. Но учи технологии, которые нацелены на те же вещи, что ты уже делаешь.
+
 Изучи NodeJS и переходи от Фронтенда к Full stack.
+
 Изучи Docker и Travis и добавь галочку 'DevOps' в свой стэк. Может быть, новая технология понравится вам еще больше!
+
 Будь открыт к новому и учись новым технологиям. Технологиям, которые дают новые решения задачам, которые встретятся в будущем.
 
 Изучение 5-го языка и достижение уровня, необходимого для написания Todo списка, не поможет тебе ни в малейшей степени.
 
 Вообще, попробуй стать [T-Shaped разработчиком](https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one/).
 
-### How you should pick a language or framework
-No one cares about the language you use as long as it works
-While I find that there are better languages than others, what it really matters if how productive do you feel using it.
-You'll be a faster, more productive and more importantly, happier, programmer if you choose a language you like.
-Javascript, C#, Python, Golang, Java, etc are good languages. Of course, I have my favourite but that doesn't matter that it is the best. That just means that I'm more comfortable and happier using it.
-And as I'm happier and I have fun, I read books about Python. I watch videos about Python, read articles about Python. And also even write articles about Python.
-As I enjoy Python, I'm draw to learn more. I enjoy it.
-Would I do the same if I was using, let's say a random language, Java because it is the hottest thing despite hating the language? No.
-Do yourself a favor, try different languages and pick the one you like.
-No language lately has created a new paradigm nor has brought something really really new to the table in years.
-Sure, every language has its uses and places where it shines, but you can do the same with each language.
-Pick a tech base on what you like, not what other people else says.
-If you don't believe me, believe Brad from Traversy Media:
-"There is not 'Best' programming language"
+### Как выбрать язык или фреймворк
+Никого не волнует язык, который ты используешь, пока это работает.
+
+В то же время, я считаю некоторые языки лучше других, но по-настоящему важно только то, как ты продуктивен использую его.
+
+Ты будешь быстрым, более продуктивным, и что еще важнее, счастливым программистом, если выберешь язык, который тебе нравится.
+
+Javascript, C#, Python, Golang, Java, и прочие хорошие языки. Конечно, у меня есть любимый язык, но не имеет значения какой лучший. Это означает, что я чувствую себя комфортнее и счастливеее используя его.
+
+И т.к, я счастливее и получаю удовольствие от него, я читаю книги про Python. Я смотрю видео про Python, читаю статьи про Python. И пишу статьи про Python.
+
+Делал бы я то же самое, если бы использовал какой-нибудь рандомный язык, например, Java, потому что он очень популярен, несмотря на неприязнь к языку? Нет.
+
+Сделай себе одолжение, попробуй разные языки и выберите тот, который нравится.
+
+Ни один язык за последние годы не создал новую парадигму и не принес что-то действительно новое.
+
+Конечно, каждый язык имеет свое место для применения, где будет блистать, но ты можешь делать то же с каждым языком.
+
+Пусть твой стэк состоит из того, что тебе нравится, а не из того что люди говорят.
+
+Если не веришь мне, поверь Брэду из Traversy Media:
+"Нет 'Лучшего' языка программирования"
 
 ### Заключение
 Мы можем подитожить все таким образом:
