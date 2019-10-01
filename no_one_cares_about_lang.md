@@ -1,5 +1,5 @@
-## Никогда не волнует какой язык ты используешь
-Никогда не волнует, какой язык ты используешь. Никого не волнует, какой фреймворк ты учишь.
+## Никого не волнует какой язык ты используешь
+Никого не волнует, какой язык ты используешь. Никого не волнует, какой фреймворк ты учишь.
 Если ты предпочитаешь Python вместо C#, Angular вместо Vue или Flutter вместо Java/React native/Ionic, это тоже никого не волнует.
 
 Почему? Потому что главное - это результат.
@@ -46,37 +46,25 @@ At least, the ones that matter.
 Ты эксперт в React? Ты можешь изучить Vue или Angular. Но учи технологии, которые нацелены на те же вещи, что ты уже делаешь.
 Изучи NodeJS и переходи от Фронтенда к Full stack.
 Изучи Docker и Travis и добавь галочку 'DevOps' в свой стэк. Может быть, новая технология понравится вам еще больше!
-Будь открыт к новому и учись новым технологиям. Things that give you new tools to face the challenges you will find in the future.
+Будь открыт к новому и учись новым технологиям. Технологиям, которые дают новые решения задачам, которые встретятся в будущем.
 
-Learning the 5th Backend language and acquiring just the level needed to do To-Do list won't help you in the slightest.
+Изучение 5-го языка и достижение уровня, необходимого для написания Todo списка, не поможет тебе ни в малейшей степени.
 
-In fact, try to become a T-Shaped developer.
+Вообще, попробуй стать [T-Shaped разработчиком](https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one/).
 
 ### How you should pick a language or framework
 No one cares about the language you use as long as it works
-
 While I find that there are better languages than others, what it really matters if how productive do you feel using it.
-
 You'll be a faster, more productive and more importantly, happier, programmer if you choose a language you like.
-
 Javascript, C#, Python, Golang, Java, etc are good languages. Of course, I have my favourite but that doesn't matter that it is the best. That just means that I'm more comfortable and happier using it.
-
 And as I'm happier and I have fun, I read books about Python. I watch videos about Python, read articles about Python. And also even write articles about Python.
-
 As I enjoy Python, I'm draw to learn more. I enjoy it.
-
 Would I do the same if I was using, let's say a random language, Java because it is the hottest thing despite hating the language? No.
-
 Do yourself a favor, try different languages and pick the one you like.
-
 No language lately has created a new paradigm nor has brought something really really new to the table in years.
-
 Sure, every language has its uses and places where it shines, but you can do the same with each language.
-
 Pick a tech base on what you like, not what other people else says.
-
 If you don't believe me, believe Brad from Traversy Media:
-
 "There is not 'Best' programming language"
 
 ### Заключение
