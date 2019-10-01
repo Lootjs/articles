@@ -1,4 +1,5 @@
 ## Никого не волнует какой язык ты используешь
+> Original [https://dev.to/davidmm1707/no-one-cares-about-the-language-you-use-2mlo](https://dev.to/davidmm1707/no-one-cares-about-the-language-you-use-2mlo)
 Никого не волнует, какой язык ты используешь. Никого не волнует, какой фреймворк ты учишь.
 Если ты предпочитаешь Python вместо C#, Angular вместо Vue или Flutter вместо Java/React native/Ionic, это тоже никого не волнует.
 
