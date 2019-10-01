@@ -1,4 +1,4 @@
-### Никогда не волнует какой язык ты используешь
+## Никогда не волнует какой язык ты используешь
 Никогда не волнует, какой язык ты используешь. Никого не волнует, какой фреймворк ты учишь.
 Если ты предпочитаешь Python вместо C#, Angular вместо Vue или Flutter вместо Java/React native/Ionic, это тоже никого не волнует.
 
@@ -6,7 +6,7 @@
 
 Я собираюсь тебе обьяснить, почему тебе нужно сосредоточиваться не на выборе хайпового языка или фреймворке месяца, а на том, что действительно важно.
 
-#### Твои стэк технологий не имеет значения
+### Твои стэк технологий не имеет значения
 Позволь мне начать с того, что никого не волнует язык.
 Никого не волнует, если ты выберешь Golang вместо Java, или если ты используешь TravisCI вместо Jenkins. Никого не волнует. 
 По крайней мере, те, которые имеют значение. ===== At least, the ones that matter.
@@ -22,54 +22,52 @@
 Волнует ли его, что ты используешь Node.js? Беспокоит ли его, что ты выбрал чистый CSS вместо SASS?
 Использование микрофреймворка типа Flask или просто Wordpress шаблона не имеет для него значения. Он даже не заметит.
 
-Единственная вещь, которая его волнует - это результат.
+Единственная вещь, которая его волнует - это результат...
 
-#### Почему это хорошо
-And that's good.
+### Почему это хорошо
+... И это хорошо.
 
+Хорошо, потому что это помогает тебе делать то, что нужно делать. Стать лучшим программистом в выбранном языке.
 
-That's good because it helps you do what you should be doing. Becoming a better programmer in the language of your choice.
+Вместо того, чтобы изучать новый язык, о котором ты читал в статье, которая клянется, что тебе нужно выучить его в 2020 году, или ты будешь в помойке, стань лучшим программистом в выбранном тобой языке.
 
-Instead of learning the new hot language you read about in an article that swears you need to learn it in 2020 or you'll be in the gutter, become a better programmer in the language of your preference.
+Вместо изучения новых языков, коллекционирования значков или ачивок Steam, почему бы не стать лучшим в языке программирования?
 
-Instead of learning new languages like you are collecting badges or Steam achievements, why not become a master in a language?
+Если тебе нужна операция, ты выберешь хирурга с 10 летним стажем или доктора, который "Да, я немного занимался хирургией, а еще и дерматологией, общей практикой, педиатрией. Так что я много знаю"?
 
-If you need an operation, would you rather pick the "10 years of experience as a surgeon" doctor, or the "Yeah I dabbled a bit as a surgeon, but also as a dermatologist, general medicine, paediatrician. So I know a lot!" doctor?
+Конечно, ты выберешь хирурга, с 10 летним стажем.
 
-Of course you will pick the 10-years surgeon.
+Почему? Потому что он специалист. Он потратил время на изучение основ, потом стал опытным спецом и только потом экспертом. В то же время другой доктор мастер во всем: но у него не глубокий запас знаний.
 
-Why? Because he is a specialist. He has spent time learning the basics THEN becoming advanced then expert. While the other he's a jack of all trades: His knowledge pool is shallow.
+Итак, мой вопрос таков: Ты как работодатель, выберешь программиста с 10 летним стажем в C# для решения твоих бэкенд задач, или выберешь человека, который использует новый язык или фреймворк каждые 6 месяцев?
 
-So my question is: You as an employer, would choose a programmer with 10 years of experience in C# to solve your Backend problems, or you'll choose that guy that uses a new language or framework every 6 months?
+Конечно, ты выберешь специалиста, который не меняет языки каждый месяц.
 
-Of course, you will pick the specialist that is not switching languages every month.
+### Несмотря на это, продолжай учится
 
-Despite that, keep learning
+То есть, ты не должен учить новые технологии?
 
+Нет, наоборот. Рост очень важен для программиста. Ты не должен быть экспертом Delphi в 2019 (наверное, может быть...).
 
-I mean that you should not learn new things?
+Ты должен хотеть [изучать](https://letslearnabout.net/blog/learning-how-to-learn/) новые технологии.
 
-No, just the opposite. Growing is very important as a programmer. You don't want to be a Delphi expert in 2019 (well, maybe…).
+И в этом весь секрет: НОВЫЕ технологии.
 
-You want to keep learning new things.
+Изучение новых фреймворков, языков и инструментов принесет что-то новое в твой стэк.
 
-And that's the secret: NEW things.
+Ты эксперт в React? Ты можешь изучить Vue или Angular. Но учи технологии, которые нацелены на те же вещи, что ты уже делаешь.
 
-Learn new frameworks, languages and tools that bring something new to your tool-box.
+Изучи NodeJS и переходи от Фронтенда к Full stack.
 
-Are you a React expert? You can learn Vue or Angular. But you will be learning things aimed to do the very same things you are already doing.
+Изучи Docker и Travis и добавь галочку 'DevOps' в свой стэк. Может быть, новая технология понравится вам еще больше!
 
-Learn NodeJS and transition from Frontend to Full Stack.
-
-Learn Docker and Travis and add a 'DevOps' spin to your career. Maybe you will find that you enjoy that new thing even more!
-
-Keep an open mind and learn new things. Things that give you new tools to face the challenges you will find in the future.
+Будь открыт к новому и учись новым технологиям. Things that give you new tools to face the challenges you will find in the future.
 
 Learning the 5th Backend language and acquiring just the level needed to do To-Do list won't help you in the slightest.
 
 In fact, try to become a T-Shaped developer.
 
-How you should pick a language or framework
+### How you should pick a language or framework
 No one cares about the language you use as long as it works
 
 While I find that there are better languages than others, what it really matters if how productive do you feel using it.
@@ -96,18 +94,18 @@ If you don't believe me, believe Brad from Traversy Media:
 
 "There is not 'Best' programming language"
 
-Conclusion
-We can summarize everything to:
+### Заключение
+Мы можем подитожить все таким образом:
 
-There is not a 'Best' language
-No one cares about the language you use
-People care about the end result
-Don't chase the new hottest language
-Learning how to do more, advanced things with one language >>> Learning how to do basic stuff with five languages
-Learn new things only if it gives you an advantage in something
-Focus on solving problems that people have, not adding another trophy to a never-ending collection of languages to learn.
-No one cares about the language you use.
+- Нет 'Лучшего' языка программирования.
+- Никого не волнует язык, который ты используешь.
+- Людей заботит конечный результат.
+- Не гонись за новыми технологиями
+- Учи как делать больше; продвинутые вещи на одном языке, чем учить как делать базовые вещи на пяти языках.
+- Учись новым технологиям, только если даст преимущество в чем-то.
+- Сфокусируйся на решение проблем бизнеса, не добавляя еще один трофей в список технологий для изучения.
+Никого не волнует язык, который ты используешь.
 
-Don't learn your 4th language in this year. Instead of that, start building things.
+Не надо изучать 4 языка в год. Вместо этого начни делать вещи.
 
-Solve problems, don't create new ones.
+Решай проблемы, не создавай новые.
