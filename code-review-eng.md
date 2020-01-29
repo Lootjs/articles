@@ -1,7 +1,7 @@
 ## A few advices, for improving a code review process
 
 ### What is a code review?
-**Before getting started, I wanna give my definintion of a code review:**
+**Before getting started, I want to give my definintion of a code review:**
 - Code review is a discussion about a new code. It's necessary to involve the team in assessing the importance of this change.
 - Code review is sharing a knowledges about a project, beacause it can reduce bus factor. In cases, when a developers don't know how works some modules, code review can fix this omission.
 - Code review is a refactoring, improving code quality.
@@ -9,7 +9,7 @@
 - Code review is a way to integrate a culture of mentoring and mutual assistance in a team.
 
 **And..**
-- Code review is not checking a code style - it can be automated with a linters.
+- Code review is not checking a code style - it can be automated with linters.
 - Code review is not checking a auto-tests is passing - it can be automated and should be automated.
 
 ### Primary steps before making Pull Request (PR):
