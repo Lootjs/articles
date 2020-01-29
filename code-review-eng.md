@@ -20,11 +20,11 @@
 - Your PR delirying only one feature at a time. 
 - Choise better time for a code review. On morning time a reviewers less overloaded and not in a hurry to go home as soon as possible.
 - Create basic checklist for checking a PR, e.g:
-  - A tests was written logically, т.к могут быть тесты, которые проходят в 100% случаев
-  - отсутствует повторное использование кода: с возрастанием проекта повышается вероятность написания велосипедов.
-  - документация обновлена, при необходимости
-  - проверка на производительность: некоторые языковые конструкции могут работать медленнее, и можно заранее переписать на более быстрые вариант.
+  - A tests was written logically, there may be tests that pass in 100% of cases.
+  - No code reuse: as the project grows, the likelihood of violating the DRY principle increases.
+  - A documentation updated, if necessary.
+  - Performance test: some language constructs may work more slowly, and can be rewritten in advance for a faster option.
 
-### Эмоциональные аспекты при обратной связи:
-- избегать повелительных форм в словах; задавать наводящие вопросы, например, спрашивать “почему ты решил написать так?” и предлагать варианты решения, желательно с примерами кода;
-- комментировать код, а не автора: “тут не хватает теста” вместо “ты забыл написать тест”;
+### Emotional aspects in feedback:
+- Avoid imperative forms in words; ask leading questions, for example, ask “why did you decide to write like that?” and suggest solutions, preferably with code examples
+- comment a code, not an author: “there is not enough test” instead of “you forgot to write a test”
