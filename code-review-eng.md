@@ -1,14 +1,14 @@
-## A few advices, for improving a code review process
+## A few steps, for improving a code review process
 
 ### What is a code review?
-**Before getting started, I want to give my definintion of a code review:**
-- Code review is a discussion about a new code. It's necessary to involve the team in assessing the importance of this change.
-- Code review is sharing a knowledges about a project, beacause it can reduce bus factor. In cases, when a developers don't know how works some modules, code review can fix this omission.
+**Before getting started, I want to give my definition of a code review::**
+- Code review is a discussion about the new code. It's necessary to involve the team in assessing the importance of this change.
+- Code review is sharing knowledge about a project because it can reduce a bus factor. In cases, when developers don't know how works some modules, code review can fix this omission.
 - Code review is a refactoring, improving code quality.
-- Code review is finding logical mistakes, because auto tests can miss that errors.
+- Code review is finding logical mistakes because autotests can miss those errors.
 - Code review is a way to integrate a culture of mentoring and mutual assistance in a team.
 
-**And..**
+**And...**
 - Code review is not checking a code style - it can be automated with linters.
 - Code review is not checking a auto-tests is passing - it can be automated and should be automated.
 
@@ -18,13 +18,13 @@
 
 ### Improving a code review process: 
 - Your PR delivers only one feature at a time. 
-- Choise better time for a code review. On morning time a reviewers less overloaded and not in a hurry to go home as soon as possible.
+- Choose a better time for a code review. In a morning time reviewers less overloaded and not in a hurry to go home as soon as possible.
 - Create basic checklist for checking a PR, e.g:
-  - A tests was written logically, there may be tests that pass in 100% of cases.
+  - Autotests were written logically, there may be tests that pass in 100% of cases.
   - No code reuse: as the project grows, the likelihood of violating the DRY principle increases.
-  - A documentation updated, if necessary.
+  - Documentation updated, if necessary.
   - Performance test: some language constructs may work more slowly, and can be rewritten in advance for a faster option.
 
-### Emotional aspects in feedback:
-- Avoid imperative forms in words; ask leading questions, for example, ask “why did you decide to write like that?” and suggest solutions, preferably with code examples
+### Emotional aspects of feedback:
+- Avoid imperative forms in words; ask leading questions, for example, ask “why did you decide to write like that?” and suggest solutions, preferably with code examples.
 - comment a code, not an author: “there is not enough test” instead of “you forgot to write a test”
