@@ -17,7 +17,7 @@
 2. When it's possible, give a brief for PR: what has been changed, pay attention to what(?). This will provide a context for the reviewer, which the author possesses: the author investigated the problem, and knows the reasons for the changes.
 
 ### Improving a code review process: 
-- Your PR delirying only one feature at a time. 
+- Your PR delivers only one feature at a time. 
 - Choise better time for a code review. On morning time a reviewers less overloaded and not in a hurry to go home as soon as possible.
 - Create basic checklist for checking a PR, e.g:
   - A tests was written logically, there may be tests that pass in 100% of cases.
